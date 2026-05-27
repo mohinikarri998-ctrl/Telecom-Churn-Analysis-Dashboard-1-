@@ -20,3 +20,6 @@ This project analyzes telecom customer data to identify churn patterns.
 
 ## 📁 Dataset
 (Add dataset link or file)
+
+##Dashboard preview
+1[Dashboard](dashboard.png)
